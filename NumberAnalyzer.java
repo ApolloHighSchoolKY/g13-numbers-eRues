@@ -4,7 +4,7 @@
 //Class -
 //Lab  -
 
-import static java.lang.System.lineSeparator;
+import static java.lang.System.lineSeparator; //What was this for?
 
 import java.util.ArrayList;
 import java.util.Scanner;
